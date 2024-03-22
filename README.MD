@@ -16,7 +16,7 @@ __This is bold and *italic* text__ using double underscores for bold and single 
 
 <br />
 ###### This is H6 text
-v
+<br />
 
 ![Link an image.](/learn/azure-devops/shared/media/mara.png)
 <br />
