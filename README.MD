@@ -1,4 +1,4 @@
 test
 SEGUNDO TEST
-*negrita*
-This is also __bold__ text.
+italica * al inicio y * al final del texto * Italica *  *italica*
+esta es la negrita con __ antes la palabra   __ negrita _  __negrita__ text.
