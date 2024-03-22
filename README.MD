@@ -1,4 +1,4 @@
 test
 SEGUNDO TEST
 *negrita*
-letra_italica_
+This is also __bold__ text.
